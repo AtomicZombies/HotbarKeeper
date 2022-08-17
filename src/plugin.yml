@@ -1,0 +1,8 @@
+main: me.cjcrafter.hotbarkeeper.HotbarKeeper
+author: CJCrafter
+version: 1.0.0
+description: Auto respawn + Saves hotbar, armor and offhand
+api-version: '1.13'
+name: HotbarKeeper
+depend:
+  - MechanicsCore

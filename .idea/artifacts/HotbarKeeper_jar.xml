@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HotbarKeeper:jar">
+    <output-path>$PROJECT_DIR$/../../../1.17/plugins</output-path>
+    <root id="archive" name="HotbarKeeper.jar">
+      <element id="module-output" name="HotbarKeeper" />
+    </root>
+  </artifact>
+</component>
